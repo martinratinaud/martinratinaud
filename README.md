@@ -1,8 +1,12 @@
 # I'm Martin Ratinaud. Full stack developer. Indie Hacker. Epicurian.
 
 - 👀 **Available now for remote job and freelancing**
-- 🔭 Working on a big refactoring in Ruby On Rails for a top 1000 sites in France.
-- ♥️ NextJs Typescript React GraphQL
-- 👯 Best Side Project [Staking Crypto](https://stakingcrypto.io). Compare staking crypto rates over 30+ exchanges
+- 🔭 Helping 2 startups launching their product
+- ♥️ NextJs Typescript React GraphQL tRPC
 - ⚡ Developed a [Self describing methodology](https://github.com/martinratinaud/work-with-me)
-- 📫 Reach me on [twitter](https://twitter.com/martinratinaud)
+- 📫 Reach me on [twitter](https://twitter.com/martinratinaud) and [LinkedIn](https://www.linkedin.com/in/martinratinaud)
+
+## Side projects
+- 💵 [Staking Crypto](https://stakingcrypto.io). Compare staking crypto rates over 30+ exchanges
+- 🧑‍🤝‍🧑 [Headlinker 🇫🇷](https://headlinker.com/fr). Communauté de recruterus de confiance
+
