@@ -9,4 +9,5 @@
 ## Side projects
 - 💵 [Staking Crypto](https://stakingcrypto.io). Compare staking crypto rates over 30+ exchanges
 - 🧑‍🤝‍🧑 [Headlinker 🇫🇷](https://headlinker.com/fr). Communauté de recruterus de confiance
+- 🧑‍🤝‍🧑 [Remote Family](https://remote-family.com). Find your sweet spot on Earth based on your passions
 
