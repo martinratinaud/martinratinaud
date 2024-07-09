@@ -9,7 +9,7 @@
 
 ## Side projects
 
-- 💵 [Airdrop Routine](https://stakingcrypto.io/airdrops). Track your airdrops. Discover new ones
+- 🪂 [Airdrop Routine](https://stakingcrypto.io/airdrops). Track your airdrops. Discover new ones
 - 💵 [Staking Crypto](https://stakingcrypto.io/). Compare staking crypto rates over 30+ exchanges
 - 🧑‍🤝‍🧑 [Headlinker 🇫🇷](https://headlinker.com/fr). Communauté de recruterus de confiance
 - 🌏 [Remote Family](https://remote-family.com/). Find your sweet spot on Earth based on your passions
