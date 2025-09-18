@@ -1,6 +1,6 @@
 # I'm Martin Ratinaud. Full stack developer. Indie Hacker. Epicurian.
 
-- 🫵 All in on [Headlinker 🇫🇷](https://headlinker.com/fr).
+- 🫵 All in on [Headlinker 🇫🇷](https://headlinker.com/fr)
 - 🤖 Claude Code Max Addict
 - ♥️ NextJs Typescript React tRPC
 - 📫 Reach me on [twitter](https://twitter.com/martinratinaud) and [LinkedIn](https://www.linkedin.com/in/martinratinaud)
