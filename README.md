@@ -1,13 +1,22 @@
-# I'm Martin Ratinaud. Full stack developer. Indie Hacker. Epicurian.
+# I'm Martin Ratinaud. Full stack developer. Indie Hacker. Epicurian. Dad of DT1.
 
 - 🫵 All in on [Headlinker 🇫🇷](https://headlinker.com/fr)
 - 🤖 Claude Code Max Addict
 - ♥️ NextJs Typescript React tRPC
-- 📫 Reach me on [twitter](https://twitter.com/martinratinaud) and [LinkedIn](https://www.linkedin.com/in/martinratinaud)
+- 📫 Reach me on  and 
+
+## Values
+
+- **😃 Be Happy** - Positive mindset that transforms challenges into opportunities
+- **🧪 Experiment** - Innovation enthusiast, always testing new tech, pivots when needed
+- **👂 No Ego Doer** - Results-focused problem solver with human-centered leadership
+
+## Main Activity
+
+- 🧑‍🤝‍🧑 [Headlinker 🇫🇷](https://headlinker.com/fr). Communauté de recruteurs de confiance
 
 ## Side projects
 
-- 🧑‍🤝‍🧑 [Headlinker 🇫🇷](https://headlinker.com/fr). Communauté de recruterus de confiance
 - 💉 [DT1sanslimites](https://dt1sanslimites.com). Communauté pour diabétiques de type 1 et leurs accompagnants
 - 🪄 [Baste Sportive](https://en.baste-sportive.com). Sports Predictions
 - 🪂 [Airdrop Routine](https://stakingcrypto.io/airdrops). Track your airdrops. Discover new ones
@@ -22,3 +31,8 @@
 - 👨‍💻 Code
 - 🏄‍♂️ Surf
 - 💰 Crypto
+
+## Contacts
+
+- [𝕏](https://x.com/martinratinaud)
+- [LinkedIn](https://www.linkedin.com/in/martinratinaud)
